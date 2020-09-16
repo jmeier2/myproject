@@ -14,5 +14,5 @@ Welcome to my first workflowr website!
 
 * [Teeth growth analysis](teeth.html)
 
-Kelly's Github page: https://kmoleary.github.io/myproject/
+* [Kelly's Github page](https://kmoleary.github.io/myproject/)
  

@@ -8,6 +8,8 @@ editor_options:
   chunk_output_type: console
 ---
 
+![Spinosaurus](assets/spinosaurus.png)
+
 Welcome to my first workflowr website!
 
 * [Teeth growth analysis](teeth.html)
